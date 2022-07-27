@@ -1,2 +1,2 @@
 # Transit-Optimization
-My work is in src/transit/transit.java
+My work is in src/transit/Transit.java
