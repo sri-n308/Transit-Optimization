@@ -7,11 +7,6 @@ import javax.xml.stream.Location;
 /**
  * This class contains methods which perform various operations on a layered linked
  * list to simulate transit
- * 
- * @author Ishaan Ivaturi
- * @author Prince Rawal
- 
- All methods in this class were created by Sriteja Nara 
  */
 public class Transit {
 	private TNode trainZero; // a reference to the zero node in the train layer
